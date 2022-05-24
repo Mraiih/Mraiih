@@ -4,7 +4,7 @@
 
 💼 Working at [Shopmium](https://www.shopmium.com/)  
 📝 Should try writing some articles  
-🚀 2022 goals: recreate my portfolio ; code my own blog
+🚀 2022 goals: create my own blog ; make a game
 <br><br><br><br><br><br><br>
 
 <div align="center" style="font-weight: bold;">
