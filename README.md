@@ -2,8 +2,8 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=mraiih&theme=dark&count_private=true&show_icons=true">](https://github.com/Mraiih)
 
-💼 Working at [Shopmium](https://www.shopmium.com/)  
-🌱 2022 learning: Elixir / Phoenix
+💼 Working at [Shopmium](https://www.shopmium.com/) since July 2021  
+🌱 2022 learning: Elixir / Phoenix  
 🌱 2023 learning: Elixir / Phoenix ; Ableton Live ; Godot Engine
 <br><br><br><br><br><br><br>
 
