@@ -4,7 +4,7 @@
 
 💼 Working at [Shopmium](https://www.shopmium.com/) since July 2021  
 🌱 2022 learning: Elixir / Phoenix  
-🌱 2023 learning: Elixir / Phoenix ; Ableton Live ; Godot Engine
+🌱 2023 learning: Elixir / Phoenix ; Ableton Live ; Godot
 <br><br><br><br><br><br><br>
 
 <div align="center" style="font-weight: bold;">
