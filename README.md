@@ -23,5 +23,5 @@
 ## 🗨️ Contact
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/groussel42/)
-[![Email](https://img.shields.io/badge/Email-2650ee?style=for-the-badge&logo=hey&logoColor=FFF)](mailto:gaelroussel@hey.com)
+[![Email](https://img.shields.io/badge/Email-2650ee?style=for-the-badge&logo=hey&logoColor=FFF)](mailto:gaelroussel@mailbox.org)
 [![Discord](https://img.shields.io/badge/Mraiih-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/87853507738079232)
